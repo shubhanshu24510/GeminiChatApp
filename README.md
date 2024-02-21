@@ -26,50 +26,6 @@ The purpose of this repository is to demonstrate below:
 <img src="previews/preview2.gif" alt="drawing" width="269px" /></br>
 </p>
 
-## ✍️ Technical Content
-
-If you're interested in the overall architecture, each layer, Generative AI, Gemini SDK, and implementation details of this project, check out the following blog post: **[Build an AI Chat Android App With Google’s Generative AI](https://getstream.io/blog/android-generative-ai/)**
-
-<a href="https://getstream.io/chat/sdk/compose?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Dec2024_Jaewoong_Gemini&utm_term=DevRelOs">
-<img src="https://user-images.githubusercontent.com/24237865/138428440-b92e5fb7-89f8-41aa-96b1-71a5486c5849.png" align="right" width="12%"/>
-</a>
-
-### Stream Chat
-
-- [Stream Chat SDK for Android on GitHub](https://github.com/getStream/stream-chat-android)
-- [Android Samples for Stream Chat SDK on GitHub](https://github.com/getStream/android-samples)
-- [Stream Chat Compose UI Components Guidelines](https://getstream.io/chat/docs/sdk/android/compose/overview/)
-
-## 💻 How to build the project?
-
-To build this project properly, you should follow the instructions below: 
-
-1. Go to the __[Stream login page](https://getstream.io/try-for-free?utm_source=Github?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Dec2024_Jaewoong_Gemini&utm_term=DevRelOss)__.
-2. If you have your GitHub account, click the **SIGN UP WITH GITHUB** button and you can sign up within a couple of seconds. 
-
-![stream](figures/stream0.png)
-
-3. If you don't have a GitHub account, fill in the inputs and click the **START FREE TRIAL** button.
-4. Go to the __[Dashboard](https://dashboard.getstream.io?utm_source=Github?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Dec2024_Jaewoong_Gemini&utm_term=DevRelOss)__ and click the **Create App** button like the below.
-
-![stream](figures/stream1.png)
-
-5. Fill in the blanks like the below and click the **Create App** button.
-
-<img width="44%" src = "figures/stream2.png">
-
-6. You will see the **Key** like the image below and then copy it.
-
-![stream](figures/stream3.png)
-
-7. Create a new file named **secrets.properties** on the root directory of this Android project, and add the key to the `secrets.properties` file like the below:
-
-![stream](figures/stream5.png)
-
-```gradle
-STREAM_API_KEY=..
-```
-
 8. Go to your __[Dashboard](https://dashboard.getstream.io?utm_source=Github?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Dec2024_Jaewoong_Gemini&utm_term=DevRelOss)__ again and click your App.
 
 9. In the **Overview** menu, you can find the **Authentication** category by scrolling to the middle of the page.
