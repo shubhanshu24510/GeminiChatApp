@@ -25,42 +25,6 @@ The purpose of this repository is to demonstrate below:
 <img src="previews/preview2.gif" alt="drawing" width="269px" /></br>
 </p>
 
-8. Go to your __[Dashboard](https://dashboard.getstream.io?utm_source=Github?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Dec2024_Jaewoong_Gemini&utm_term=DevRelOss)__ again and click your App.
-
-9. In the **Overview** menu, you can find the **Authentication** category by scrolling to the middle of the page.
-
-10. Switch on the **Disable Auth Checks** option and click the **Submit** button like the image below.
-
-![stream](figures/stream4.png)
-
-11. Click the **Explorer** tab on the left side menu.
-
-12. Click **users** -> **Create New User** button sequentially and add fill in the user like the below:
-
-<img width="48%" src = "figures/stream6.png">
-
-- User Name: `gemini`
-- User ID: `gemini`
-
-13. Go to **[Google AI Studio](https://makersuite.google.com/app/apikey)**, login with your Google account and select the **Get API key** on the menu left like the image below:
-
-![gemini](figures/gemini0.png)
-
-14. Create your API key for using generative AI SDKs, and you'll get one like the image below:
-
-![gemini](figures/gemini1.png)
-
-15. Add the key to the `secrets.properties` file like the below:
-
-![gemini](figures/gemini2.png)
-
-```gradle
-GEMINI_API_KEY=..
-```
-
-16. Build and run the project.
-
-
 ## 🛠 Tech Stack & Open Source Libraries
 - Minimum SDK level 21.
 - 100% [Jetpack Compose](https://developer.android.com/jetpack/compose) based + [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous.
