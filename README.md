@@ -1,14 +1,13 @@
 
-![Gemini Cover](https://github.com/skydoves/gemini-android/assets/24237865/bf8e6cc9-3729-49f8-8f50-b45d6649668f)
+##  𝐆𝐞𝐦𝐢𝐧𝐢 𝐂𝐡𝐚𝐭 𝐀𝐩𝐩
+
+**Gemini Android** demonstrates [Google's Generative AI](https://android-developers.googleblog.com/2023/12/leverage-generative-ai-in-your-android-apps.html) on Android with [Stream Chat SDK for Compose](https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Dec2024_Jaewoong_Gemini&utm_term=DevRelOss).
 
 <p align="center">
   <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
   <a href="https://android-arsenal.com/api?level=21"><img alt="API" src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat"/></a>
   <a href="https://github.com/skydoves/gemini-android/actions/workflows/android.yml"><img alt="Build Status" src="https://github.com/skydoves/gemini-android/actions/workflows/android.yml/badge.svg"/></a>
-
 </p>
-
-**Gemini Android** demonstrates [Google's Generative AI](https://android-developers.googleblog.com/2023/12/leverage-generative-ai-in-your-android-apps.html) on Android with [Stream Chat SDK for Compose](https://getstream.io/tutorials/android-chat?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Dec2024_Jaewoong_Gemini&utm_term=DevRelOss).
 
 The purpose of this repository is to demonstrate below:
 
